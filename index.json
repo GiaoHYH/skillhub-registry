@@ -1,7 +1,29 @@
 {
   "version": "1.0.0",
-  "generated": "2026-01-01T16:25:51.053626",
+  "generated": "2026-02-18T12:42:21.688689",
   "skills": [
+    {
+      "name": "librispeech-asr-test-clips",
+      "version": "1.0.0",
+      "description": "Download LibriSpeech test-clean data and produce named audio + transcript pairs of configurable lengths for ASR quality and WER testing",
+      "category": "asr-evaluation",
+      "tags": [
+        "asr",
+        "wer",
+        "librispeech",
+        "audio",
+        "speech",
+        "benchmark",
+        "nlp"
+      ],
+      "author": "your-github-username",
+      "created": "",
+      "updated": "",
+      "difficulty": "",
+      "estimated_time": "",
+      "path": "skills/asr-evaluation/librispeech-asr-test-clips.md",
+      "url": "https://raw.githubusercontent.com/v1k22/skillhub-registry/main/skills/asr-evaluation/librispeech-asr-test-clips.md"
+    },
     {
       "name": "web-scraper",
       "version": "1.0.0",
